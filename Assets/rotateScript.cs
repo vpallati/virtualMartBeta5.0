@@ -13,6 +13,7 @@ public class rotateScript : MonoBehaviour {
 	void Update () {
 
         gameObject.transform.RotateAround(Vector3.up, Time.deltaTime * rotationSpeed);
+
           
 	}
 }
