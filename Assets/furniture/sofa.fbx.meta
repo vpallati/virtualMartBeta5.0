@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 42c22af106626d645baf8002c1c568ad
+timeCreated: 1479331395
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Deck_001
+    100004: Foot- Tray Support#1_001
+    100006: Foot- Tray Support_001
+    100008: Head - Tray Support#2_001
+    100010: Head- Arch_001
+    100012: Head- Lower_001
+    100014: Head- Post_001
+    100016: Head- Post_002
+    100018: Head- Tray Support_001
+    100020: Head- V1_001
+    100022: Head- V2_001
+    100024: Head- V2_002
+    100026: Head- V3_001
+    100028: Head- V3_002
+    100030: Head- V4_001
+    100032: Head- V4_002
+    100034: Head- V5_001
+    100036: Head- V5_002
+    100038: Head- V6_001
+    100040: Head- V6_002
+    100042: Head- V7_001
+    100044: Head- V7_002
+    100046: Head- V8_001
+    100048: Head- V8_002
+    100050: Mattress_001
+    100052: Mattress_002
+    100054: Side- Arm_001
+    100056: Side- Arm_002
+    100058: Side- Post#1_001
+    100060: Side- Post#1_002
+    100062: Side- Post_001
+    100064: Side- Post_002
+    100066: Side- Shelf Support _001
+    100068: Side- Shelf Support _002
+    100070: Side- Shelf Support#2_001
+    100072: Side- Shelf Support#2_002
+    100074: Side- V1_001
+    100076: Side- V1_002
+    100078: Side- V2_001
+    100080: Side- V2_002
+    100082: Side- V3_001
+    100084: Side- V3_002
+    100086: Side- V4_001
+    100088: Side- V4_002
+    100090: Side- V5_001
+    100092: Side- V5_002
+    100094: Side- V7_001
+    100096: Side- V7_002
+    100098: Side- V_001
+    100100: Side- V_002
+    400000: //RootNode
+    400002: Deck_001
+    400004: Foot- Tray Support#1_001
+    400006: Foot- Tray Support_001
+    400008: Head - Tray Support#2_001
+    400010: Head- Arch_001
+    400012: Head- Lower_001
+    400014: Head- Post_001
+    400016: Head- Post_002
+    400018: Head- Tray Support_001
+    400020: Head- V1_001
+    400022: Head- V2_001
+    400024: Head- V2_002
+    400026: Head- V3_001
+    400028: Head- V3_002
+    400030: Head- V4_001
+    400032: Head- V4_002
+    400034: Head- V5_001
+    400036: Head- V5_002
+    400038: Head- V6_001
+    400040: Head- V6_002
+    400042: Head- V7_001
+    400044: Head- V7_002
+    400046: Head- V8_001
+    400048: Head- V8_002
+    400050: Mattress_001
+    400052: Mattress_002
+    400054: Side- Arm_001
+    400056: Side- Arm_002
+    400058: Side- Post#1_001
+    400060: Side- Post#1_002
+    400062: Side- Post_001
+    400064: Side- Post_002
+    400066: Side- Shelf Support _001
+    400068: Side- Shelf Support _002
+    400070: Side- Shelf Support#2_001
+    400072: Side- Shelf Support#2_002
+    400074: Side- V1_001
+    400076: Side- V1_002
+    400078: Side- V2_001
+    400080: Side- V2_002
+    400082: Side- V3_001
+    400084: Side- V3_002
+    400086: Side- V4_001
+    400088: Side- V4_002
+    400090: Side- V5_001
+    400092: Side- V5_002
+    400094: Side- V7_001
+    400096: Side- V7_002
+    400098: Side- V_001
+    400100: Side- V_002
+    2300000: Deck_001
+    2300002: Foot- Tray Support#1_001
+    2300004: Foot- Tray Support_001
+    2300006: Head - Tray Support#2_001
+    2300008: Head- Arch_001
+    2300010: Head- Lower_001
+    2300012: Head- Post_001
+    2300014: Head- Post_002
+    2300016: Head- Tray Support_001
+    2300018: Head- V1_001
+    2300020: Head- V2_001
+    2300022: Head- V2_002
+    2300024: Head- V3_001
+    2300026: Head- V3_002
+    2300028: Head- V4_001
+    2300030: Head- V4_002
+    2300032: Head- V5_001
+    2300034: Head- V5_002
+    2300036: Head- V6_001
+    2300038: Head- V6_002
+    2300040: Head- V7_001
+    2300042: Head- V7_002
+    2300044: Head- V8_001
+    2300046: Head- V8_002
+    2300048: Mattress_001
+    2300050: Mattress_002
+    2300052: Side- Arm_001
+    2300054: Side- Arm_002
+    2300056: Side- Post#1_001
+    2300058: Side- Post#1_002
+    2300060: Side- Post_001
+    2300062: Side- Post_002
+    2300064: Side- Shelf Support _001
+    2300066: Side- Shelf Support _002
+    2300068: Side- Shelf Support#2_001
+    2300070: Side- Shelf Support#2_002
+    2300072: Side- V1_001
+    2300074: Side- V1_002
+    2300076: Side- V2_001
+    2300078: Side- V2_002
+    2300080: Side- V3_001
+    2300082: Side- V3_002
+    2300084: Side- V4_001
+    2300086: Side- V4_002
+    2300088: Side- V5_001
+    2300090: Side- V5_002
+    2300092: Side- V7_001
+    2300094: Side- V7_002
+    2300096: Side- V_001
+    2300098: Side- V_002
+    3300000: Deck_001
+    3300002: Foot- Tray Support#1_001
+    3300004: Foot- Tray Support_001
+    3300006: Head - Tray Support#2_001
+    3300008: Head- Arch_001
+    3300010: Head- Lower_001
+    3300012: Head- Post_001
+    3300014: Head- Post_002
+    3300016: Head- Tray Support_001
+    3300018: Head- V1_001
+    3300020: Head- V2_001
+    3300022: Head- V2_002
+    3300024: Head- V3_001
+    3300026: Head- V3_002
+    3300028: Head- V4_001
+    3300030: Head- V4_002
+    3300032: Head- V5_001
+    3300034: Head- V5_002
+    3300036: Head- V6_001
+    3300038: Head- V6_002
+    3300040: Head- V7_001
+    3300042: Head- V7_002
+    3300044: Head- V8_001
+    3300046: Head- V8_002
+    3300048: Mattress_001
+    3300050: Mattress_002
+    3300052: Side- Arm_001
+    3300054: Side- Arm_002
+    3300056: Side- Post#1_001
+    3300058: Side- Post#1_002
+    3300060: Side- Post_001
+    3300062: Side- Post_002
+    3300064: Side- Shelf Support _001
+    3300066: Side- Shelf Support _002
+    3300068: Side- Shelf Support#2_001
+    3300070: Side- Shelf Support#2_002
+    3300072: Side- V1_001
+    3300074: Side- V1_002
+    3300076: Side- V2_001
+    3300078: Side- V2_002
+    3300080: Side- V3_001
+    3300082: Side- V3_002
+    3300084: Side- V4_001
+    3300086: Side- V4_002
+    3300088: Side- V5_001
+    3300090: Side- V5_002
+    3300092: Side- V7_001
+    3300094: Side- V7_002
+    3300096: Side- V_001
+    3300098: Side- V_002
+    4300000: Mattress_002
+    4300002: Mattress_001
+    4300004: Deck_001
+    4300006: Foot- Tray Support#1_001
+    4300008: Foot- Tray Support_001
+    4300010: Side- Arm_002
+    4300012: Side- V_002
+    4300014: Side- V4_002
+    4300016: Side- V3_002
+    4300018: Side- V2_002
+    4300020: Side- V5_002
+    4300022: Side- V7_002
+    4300024: Side- V1_002
+    4300026: Side- Shelf Support#2_002
+    4300028: Side- Post_002
+    4300030: Side- Post#1_002
+    4300032: Side- Shelf Support _002
+    4300034: Side- Arm_001
+    4300036: Side- V_001
+    4300038: Side- V4_001
+    4300040: Side- V3_001
+    4300042: Side- V2_001
+    4300044: Side- V5_001
+    4300046: Side- V7_001
+    4300048: Side- V1_001
+    4300050: Side- Shelf Support#2_001
+    4300052: Side- Post_001
+    4300054: Side- Post#1_001
+    4300056: Side- Shelf Support _001
+    4300058: Head - Tray Support#2_001
+    4300060: Head- Tray Support_001
+    4300062: Head- V5_002
+    4300064: Head- V7_002
+    4300066: Head- Lower_001
+    4300068: Head- V8_002
+    4300070: Head- V3_002
+    4300072: Head- V4_002
+    4300074: Head- V3_001
+    4300076: Head- V1_001
+    4300078: Head- Arch_001
+    4300080: Head- V2_002
+    4300082: Head- V7_001
+    4300084: Head- V6_002
+    4300086: Head- V5_001
+    4300088: Head- V8_001
+    4300090: Head- V4_001
+    4300092: Head- V2_001
+    4300094: Head- V6_001
+    4300096: Head- Post_002
+    4300098: Head- Post_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

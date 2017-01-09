@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 3d700f4bd047c214081df7f55399e3dd
+timeCreated: 1477425941
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ButtonIcons_0
+    21300002: ButtonIcons_1
+    21300004: ButtonIcons_2
+    21300006: ButtonIcons_3
+    21300008: ButtonIcons_4
+    21300010: ButtonIcons_5
+    21300012: ButtonIcons_6
+    21300014: ButtonIcons_7
+    21300016: ButtonIcons_8
+    21300018: ButtonIcons_9
+    21300020: ButtonIcons_10
+    21300022: ButtonIcons_11
+    21300024: ButtonIcons_12
+    21300026: ButtonIcons_14
+    21300028: ButtonIcons_17
+    21300030: ButtonIcons_22
+    21300032: ButtonIcons_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonIcons_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 263
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 220
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 155
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 167
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 176
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 176
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 33
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 29
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonIcons_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 29
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
